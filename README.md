@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @ainahtokyandry
 - 👀 I’m interested in programming 🙄
-- 🌱 I’m currently learning python
 - 📫 How to reach me : [https://facebook.com/andry.ainahtoky]
