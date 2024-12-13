@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @ainahtokyandry
 - 👀 I’m interested in programming 🙄
-- 📫 How to reach me : [https://facebook.com/andry.ainahtoky]
+- 📫 How to reach me : (Facebook)[https://facebook.com/andry.ainahtoky] (Mail)[mailto:ainahtokyandry@gmail.com]
