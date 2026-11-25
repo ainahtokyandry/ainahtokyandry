@@ -1,11 +1,11 @@
 # Hi, I'm Andry Tokiniaina
 
-Fullstack developer in Antananarivo, Madagascar. I build web apps, plus small native tools for
+Fullstack developer in Antananarivo, Madagascar. I build apps, plus small native tools for
 my own Mac, and I like software that does one job well and then stays out of the way.
 
 Open to freelance work and collaborations. See my [portfolio](https://ainahtokyandry.netlify.app) or [get in touch](#get-in-touch).
 
-## What I'm building
+## Projects
 
 **[MacBar](https://github.com/ainahtokyandry/mac-setup)**: one macOS menu bar item that holds
 several small tools, each one kept in its own repository.
@@ -22,6 +22,7 @@ several small tools, each one kept in its own repository.
 - **Frontend:** React, TypeScript, Next.js
 - **Backend:** Node.js, NestJS, Express, REST, GraphQL
 - **Data:** PostgreSQL, MySQL, MongoDB, Prisma
+- **Mobile:** Flutter, Dart
 - **macOS:** Swift, AppKit
 - **Tooling:** Docker, Git
 
