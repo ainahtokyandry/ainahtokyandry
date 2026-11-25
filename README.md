@@ -28,10 +28,6 @@ several small tools, each one kept in its own repository.
 
 Web development, AI, game development, and tech for social impact in Madagascar.
 
-## Fun fact
-
-I ran out of room in my menu bar, so I folded my own menu bar apps into a single icon.
-
 ## Get in touch
 
 [Email](mailto:ainahtokyandry@gmail.com) · [LinkedIn](https://www.linkedin.com/in/tokiniaina-andry/) · [Facebook](https://facebook.com/andry.ainahtoky)
